@@ -6,9 +6,9 @@ I'm Erik, a DevOps enthusiast and avid contributor.
 
 #### 👷 Check out what I'm currently working on
 
-- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 (带GUI) Azur Lane bot with GUI https://discord.gg/AQN6GeJ
+- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - An Azur Lane bot with GUI
 
-- [whoamikyo/youtube-dl-to-googlePhotos](https://github.com/whoamikyo/youtube-dl-to-googlePhotos) - This project downloads all videos from a youtube channel and backups them to google photos
+- [whoamikyo/youtube-dl-to-googlePhotos](https://github.com/whoamikyo/youtube-dl-to-googlePhotos) - This project downloads all videos from a youtube channel and backups them to google photos using google photos API.
 
 #### 📫 How to reach me
 
