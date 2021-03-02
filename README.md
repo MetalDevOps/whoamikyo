@@ -13,6 +13,7 @@ I'm Erik, an DevOps enthusiast and avid contributor.
 #### 📫 How to reach me
 
 - E-mail: **kyo@kyo.ninja**
+- Discord: **whoamikyo#4246**
 
 
 <h3 align="left">Languages and Tools:</h3>
