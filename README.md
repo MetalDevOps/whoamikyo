@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/whoamikyo/whoamikyo/master/assets/kyo.png" width="260">
 
-I'm Erik, an DevOps enthusiast and avid contributor.
+I'm Erik, a DevOps enthusiast and avid contributor.
 
 #### 👷 Check out what I'm currently working on
 
