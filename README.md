@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">An DevOps enthusiast and Python Developer.</h3>
+### Hi there 👋
 
-- 🔭 I’m currently working on [AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript)
+<img align="right" src="https://raw.githubusercontent.com/whoamikyo/whoamikyo/master/assets/kyo.png" width="260">
 
-- 📫 How to reach me **kyo@kyo.ninja**
+I'm Erik, an DevOps enthusiast and avid contributor.
+
+#### 👷 Check out what I'm currently working on
+
+- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 (带GUI) Azur Lane bot with GUI https://discord.gg/AQN6GeJ
+
+- [whoamikyo/youtube-dl-to-googlePhotos](https://github.com/whoamikyo/youtube-dl-to-googlePhotos) - This project downloads all videos from a youtube channel and backups them to google photos
+
+#### 📫 How to reach me
+
+- E-mail: **kyo@kyo.ninja**
 
 
 <h3 align="left">Languages and Tools:</h3>
