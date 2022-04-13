@@ -18,8 +18,8 @@ I'm Erik, a DevOps enthusiast and avid contributor.
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamikyo&hide=html,TeX,Jupyter Notebook&layout=compact&theme=merko" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=whoamikyo&theme=merko"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamikyo&hide=html,TeX,Jupyter Notebook&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=whoamikyo&theme=dracula"/></td>
     </tr>
   </table>
 </center>
