@@ -8,8 +8,6 @@ I'm Erik, a DevOps enthusiast and avid contributor.
 
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Alas, an Azur Lane automation tool with GUI (Supports CN, EN, JP, TW, able to support other servers), designed for 24/7 running scenes, can take over almost all Azur Lane gameplay.
 
-- [whoamikyo/youtube-dl-to-googlePhotos](https://github.com/whoamikyo/youtube-dl-to-googlePhotos) - This project downloads all videos from a youtube channel and backups them to google photos using google photos API.
-
 #### 📫 How to reach me
 
 - E-mail: **kyo@kyo.ninja**
